@@ -1,0 +1,10 @@
+
+.menu-item{
+    text-decoration:none;
+    color:white;
+    padding:.5rem 1rem;
+    transition:.4s;
+}
+.menu-item:hover{
+    color:aqua;
+}
